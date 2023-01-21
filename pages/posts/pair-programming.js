@@ -18,7 +18,7 @@ export default function PairProgramming() {
     <h1>My Thoughts on Pair Programming</h1>
     <br />
     <br />
-    <h4><i>11/01/2022 - </i></h4>
+    <h4><i>10/22/2022 - </i></h4>
 <p>
 As a current student in a coding bootcamp, there have been many different learning styles. Along with various articles, tutorial videos, lectures and a long list of projects and assignments, we also have taken advantage of pair programming as a tool for learning. My purpose here is to tell you all about my experience so far with pair programming.
 </p>
@@ -41,6 +41,7 @@ Aside from the satisfaction that can come from more polished code and quicker de
 </p>
 <hr />
 <br />
+<br />
 <p>
 <h2><b>What are some best practices I can use?</b></h2>
 <br />
@@ -61,6 +62,7 @@ Obviously every pair is different, but typically a good practice is to swap cons
 A big part of pair programming is learning, so if you do not understand why you are doing something it is important to ask. In a good setting, you should always feel comfortable asking your partner questions, even if they seem redundant.
 </p>
 <hr />
+<br />
 <br />
 <p>
 <b>My personal experiences with Pair Programming</b> <br />
