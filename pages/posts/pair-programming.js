@@ -18,7 +18,7 @@ export default function PairProgramming() {
     <h1>My Thoughts on Pair Programming</h1>
     <br />
     <br />
-    <h4><i>10/22/2022 - </i></h4>
+    <h4><i>2022-10-22 </i></h4>
 <p>
 As a current student in a coding bootcamp, there have been many different learning styles. Along with various articles, tutorial videos, lectures and a long list of projects and assignments, we also have taken advantage of pair programming as a tool for learning. My purpose here is to tell you all about my experience so far with pair programming.
 </p>

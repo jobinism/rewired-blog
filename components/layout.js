@@ -36,8 +36,10 @@ export default function Layout({ children, home }) {
               height={144}
               width={144}
               alt=""
+              style={{borderStyle: 'outset' }}
             />
             <h1 className={utilStyles.heading2Xl}>{name}</h1>
+            <br />
           </>
         ) : (
           <>
@@ -54,6 +56,8 @@ export default function Layout({ children, home }) {
             <h2 className={utilStyles.headingLg}>
               <Link href="/" className={utilStyles.colorInherit}>
                 {name}
+                <br />
+                <br />
               </Link>
             </h2>
           </>
