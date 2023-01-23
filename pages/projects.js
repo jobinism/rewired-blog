@@ -21,7 +21,7 @@ export default function FirstPost() {
     <h3>PROJECTS</h3>
     <br />
     <br />
-    <h5>React Weather App</h5>
+    <h5>Basic Weather App (React)</h5>
     <div className="row">
         <iframe
         src="https://weatherapp-sigma-drab.vercel.app/"
@@ -30,7 +30,7 @@ export default function FirstPost() {
         ></iframe>
     </div>
     <br />
-    <h5>Vanilla JS Drum Kit</h5>
+    <h5>90s Hip Hop Drum Kit (Vanilla Js)</h5>
     <div className="row">
       <iframe
       src="https://drumkit-azure.vercel.app/"
@@ -38,7 +38,16 @@ export default function FirstPost() {
       width={600}
       ></iframe> 
     </div>   
+    <br />
+    <h5>Solana Pay Shop w/ wallet integration (NextJs)</h5>
 
+    <div className="row">
+      <iframe
+      src="https://solana-shop.vercel.app/"
+      height={900}
+      width={600}
+      ></iframe> 
+    </div>   
   
   </Layout>
   

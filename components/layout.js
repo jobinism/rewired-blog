@@ -36,7 +36,7 @@ export default function Layout({ children, home }) {
               height={144}
               width={144}
               alt=""
-              style={{borderStyle: 'outset' }}
+              style={{borderStyle: 'ridge ridge ridge ridge' }}
             />
             <h1 className={utilStyles.heading2Xl}>{name}</h1>
             <br />
