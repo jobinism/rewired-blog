@@ -48,6 +48,15 @@ export default function FirstPost() {
       width={600}
       ></iframe> 
     </div>   
+    <br />
+    <h5>Simple Crypto Price and Market Cap Search (React / Coingecko API)</h5>
+    <div className="row">
+      <iframe
+      src="https://cryptochart.vercel.app/"
+      height={900}
+      width={600}
+      ></iframe> 
+    </div>   
   
   </Layout>
   
