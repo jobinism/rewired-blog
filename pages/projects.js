@@ -27,6 +27,7 @@ export default function FirstPost() {
         src="https://weatherapp-sigma-drab.vercel.app/"
         height={600}
         width={600}
+        seamless
         ></iframe>
     </div>
     <br />
@@ -36,6 +37,7 @@ export default function FirstPost() {
       src="https://drumkit-azure.vercel.app/"
       height={400}
       width={600}
+      seamless
       ></iframe> 
     </div>   
     <br />
@@ -46,6 +48,7 @@ export default function FirstPost() {
       src="https://solana-shop.vercel.app/"
       height={900}
       width={600}
+      seamless
       ></iframe> 
     </div>   
     <br />
@@ -55,6 +58,7 @@ export default function FirstPost() {
       src="https://cryptochart.vercel.app/"
       height={900}
       width={600}
+      seamless
       ></iframe> 
     </div>   
   
