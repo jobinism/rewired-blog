@@ -25,6 +25,11 @@ export default function Home({ allPostsData }) {
           Check out my projects <u>{' '}
           <a onBlur={{color: 'blue'}} style={{color: 'purple'}} href="/projects">here!</a>
         </u></p>
+        <p>
+          <br />
+          Check out my resume <u>{' '}
+          <a onBlur={{color: 'blue'}} style={{color: 'blue'}} href="/resume">here!</a>
+        </u></p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
