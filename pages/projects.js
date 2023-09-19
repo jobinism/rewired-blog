@@ -21,6 +21,17 @@ export default function FirstPost() {
     <h3>PROJECTS</h3>
     <br />
     <br />
+    <h5>Album Release App (JS)</h5>
+    <div className="row">
+        <iframe
+        src="https://albumrelease-df77nazrc-jobinism.vercel.app/"
+        height={600}
+        width={600}
+        seamless
+        ></iframe>
+    </div>
+    <br />
+    <br />
     <h5>Basic Weather App (React)</h5>
     <div className="row">
         <iframe

@@ -4,13 +4,16 @@ import Layout from '../components/layout'
 
 export default function Resume() {
 return(  
-  <Layout>
+  <>
     <Head>
-      <title>Projects</title>
+      <title>Resume</title>
     </Head>
-    <iframe src="https://resume.creddle.io/embed/8hw1okrxhxe"
-    width="850" height="1100" seamless>
+    <div className="row">
+         <iframe src="https://resume.creddle.io/embed/8hw1okrxhxe"
+    width="850" height="1100">
 
-    </iframe>
-  </Layout>)
+    </iframe> 
+    </div>
+
+  </>)
 }
