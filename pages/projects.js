@@ -25,7 +25,7 @@ export default function FirstPost() {
     <div className="row">
         <iframe
         src="https://albumrelease-df77nazrc-jobinism.vercel.app/"
-        height={800}
+        height={750}
         width={600}
         seamless
         ></iframe>
